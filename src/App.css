@@ -19,12 +19,16 @@
  * Timer
  */
 .timer-counter {
-  font-size: 5rem;
+  font-size: 8rem;
 }
 
 /*
  * Globals
  */
+body {
+  height: 100vh;
+}
+
 li {
   list-style: none;
 }
